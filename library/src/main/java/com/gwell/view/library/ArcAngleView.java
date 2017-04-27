@@ -177,4 +177,20 @@ public class ArcAngleView extends View {
         final float scale =mContext.getResources().getDisplayMetrics().density;
         return (int) (dipValue * scale + 0.5f);
     }
+
+    public String getTxtLeft() {
+        return txtLeft;
+    }
+
+    public void setTxtLeft(String txtLeft) {
+        this.txtLeft = txtLeft;
+    }
+
+    public String getTxtRight() {
+        return txtRight;
+    }
+
+    public void setTxtRight(String txtRight) {
+        this.txtRight = txtRight;
+    }
 }
