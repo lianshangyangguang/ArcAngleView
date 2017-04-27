@@ -12,7 +12,7 @@ allprojects {
     }                                          
     加入依赖
     dependencies {
-    compile 'com.github.lianshangyangguang:ArcAngleView:1.0'
+    compile 'com.github.lianshangyangguang:ArcAngleView:v1.1'
     }
 ```
 
