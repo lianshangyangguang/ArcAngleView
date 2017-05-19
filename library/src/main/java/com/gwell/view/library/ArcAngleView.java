@@ -26,9 +26,9 @@ public class ArcAngleView extends View {
     //指针下放圆的颜色
     private int circleColor = Color.rgb(0xff,0xff,0xff);
     //布局最小宽度
-    private int mWidth = 85;
+    private int mWidth = 20;
     //布局最小高度
-    private int mHeight = 42;
+    private int mHeight = 10;
     //指针下方圆的半径
     private float radius = 4.25f;
     //总弧度的一半
